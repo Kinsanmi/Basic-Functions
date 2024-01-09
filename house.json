@@ -1,0 +1,5 @@
+[
+    {"name": "Atreides", "planets":"Calladan" },
+    {"name": "Corrino", "planets":["kaitan", "Saluta", "Secundus"] },
+    {"name": "Markonnen", "planets":[ "Prime", "Arrakis"] }
+]
