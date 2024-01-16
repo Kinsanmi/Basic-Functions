@@ -54,7 +54,6 @@ function simpleString(initial: string): [()=> string, (v: string) => void]{
 }
 
 const [str1getter, str1setter] = simpleString('Hello')
-
 console.log(str1getter())
 
 str1setter("Goodbye")
